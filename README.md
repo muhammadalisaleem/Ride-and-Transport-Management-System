@@ -1,62 +1,68 @@
-# 🚗 Ride & Transport Management System — C++ Console App
-
-This is a console-based **Ride and Transport Management System** developed in C++ as a part of my Object-Oriented Programming (OOP) course project. The system demonstrates core OOP principles and showcases **21 distinct features**, including ride creation, booking, route management, user profiles, and more.
-
-## 📌 Project Overview
-
-This project simulates a simple ride and transport service, similar to how Uber or a university ride-sharing system might work, built entirely using object-oriented principles in C++. The system supports multiple user roles (driver, passenger, admin) and allows management of rides, vehicles, and bookings from a terminal interface.
+Thanks for sharing the `main()` logic — this helps tailor the README to your actual implementation. Here's an updated `README.md` based on the 22 options your `TMS` (Transport Management System) provides, reflecting your C++ OOP capabilities:
 
 ---
 
-## ✨ Key Features (21 Functionalities)
+````markdown
+# 🚖 Transport Management System (TMS) — C++ Console Application
 
-1. Add a new ride
-2. Book an available ride
-3. Cancel a ride booking
-4. Add a new vehicle
-5. Assign a driver to a vehicle
-6. View available rides
-7. Search rides by location
-8. Register a new user
-9. Update user profile
-10. Delete user account
-11. Calculate ride fare based on distance
-12. View all bookings
-13. View all registered users
-14. View driver details
-15. Vehicle maintenance record system
-16. Admin login and controls
-17. Generate daily/weekly reports
-18. Sort rides by time, fare, or distance
-19. Ride rating and feedback system
-20. Save/load data from files
-21. Exit system gracefully with confirmation
+This project is a **console-based Transport Management System (TMS)** developed in **C++** as part of my **Object-Oriented Programming (OOP) course project**. It showcases my understanding of class-based design, polymorphism, inheritance, dynamic memory allocation, file handling, and real-world system modeling — all in one application.
+
+The system handles **customer**, **driver**, and **vehicle management**, along with **service requests**, **history tracking**, and **reporting features**, offering a total of **22 functionalities** through an interactive menu-driven interface.
 
 ---
 
-## 🧠 Concepts Applied
+## 🎯 Features & Functionalities
 
-- Object-Oriented Programming (Classes, Inheritance, Polymorphism, Encapsulation)
-- File Handling in C++
-- Dynamic Memory Allocation
-- Pointer-based Array Management
-- Menu-driven User Interface
-- Role-Based Functionality
-- Clean Code and Modularity
+| #  | Feature Description |
+|----|---------------------|
+| 1  | Add a new customer |
+| 2  | Add a new driver |
+| 3  | Remove a driver |
+| 4  | Add a new vehicle |
+| 5  | Remove a vehicle |
+| 6  | Print all registered customers |
+| 7  | Print all drivers |
+| 8  | Print all vehicles |
+| 9  | View detailed info of a specific vehicle |
+| 10 | Print service history of a customer |
+| 11 | Print service history of a driver |
+| 12 | List drivers above a given ranking |
+| 13 | List drivers with multiple licenses |
+| 14 | Update driver salaries |
+| 15 | Add a new service request (booking) |
+| 16 | Cancel a service/booking |
+| 17 | Mark service as completed |
+| 18 | Find customers who used the same vehicle |
+| 19 | Show delivery drivers working on same days |
+| 20 | List pending services by date |
+| 21 | List pending services by driver |
+| 22 | List all canceled services by a customer |
+| 0  | Exit the system |
 
 ---
 
-## 🛠 Technologies Used
+## 🧠 C++ Concepts Demonstrated
 
-- Language: **C++**
-- Environment: **Console (Terminal)**
-- Compiler: g++ / Turbo C++ / Code::Blocks (Windows)
+- ✅ Classes & Objects
+- ✅ Inheritance & Polymorphism
+- ✅ Encapsulation & Data Hiding
+- ✅ File I/O (reading/writing service records)
+- ✅ Dynamic Memory Management
+- ✅ Menu-driven program design
+- ✅ Input validation & user feedback
+- ✅ Pointer-based data structures
 
----
+```
 
-## 🚀 How to Run
+## 👨‍💻 About the Developer
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ride-transport-system
-   cd ride-transport-system
+Hi! I'm **Muhammad Ali**, a Data Science student passionate about system design and C++ development. This project helped me explore how to model real-world systems using pure OOP and improve my understanding of large-scale application structure.
+
+* 💼 This project was submitted as my **semester project** for the Object-Oriented Programming course.
+* 📧 Contact: `m.alisaleem1@outlook.com`
+* 🌐 GitHub: [@yourusername](https://github.com/muhammadalisaleem)
+
+
+
+
+
