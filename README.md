@@ -49,7 +49,7 @@ The system handles **customer**, **driver**, and **vehicle management**, along w
 
 ```
 
-## 👨‍💻 About the Developer
+👨‍💻 About the Developer
 
 Hi! I'm **Muhammad Ali**, a Data Science student passionate about system design and C++ development. This project helped me explore how to model real-world systems using pure OOP and improve my understanding of large-scale application structure.
 
