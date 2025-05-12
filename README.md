@@ -1,8 +1,3 @@
-Thanks for sharing the `main()` logic — this helps tailor the README to your actual implementation. Here's an updated `README.md` based on the 22 options your `TMS` (Transport Management System) provides, reflecting your C++ OOP capabilities:
-
----
-
-````markdown
 # 🚖 Transport Management System (TMS) — C++ Console Application
 
 This project is a **console-based Transport Management System (TMS)** developed in **C++** as part of my **Object-Oriented Programming (OOP) course project**. It showcases my understanding of class-based design, polymorphism, inheritance, dynamic memory allocation, file handling, and real-world system modeling — all in one application.
