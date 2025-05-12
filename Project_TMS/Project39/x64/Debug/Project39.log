@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Project39\Project39\Source.cpp(1836,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\source\repos\Project39\Project39\Source.cpp(2074,18): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  Project39.vcxproj -> C:\Users\User\source\repos\Project39\x64\Debug\Project39.exe
